@@ -1,0 +1,15 @@
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\bin\Debug\net6.0\Task11.exe
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\bin\Debug\net6.0\Task11.deps.json
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\bin\Debug\net6.0\Task11.dll
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\bin\Debug\net6.0\Task11.pdb
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.csproj.AssemblyReference.cache
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.dll
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\refint\Task11.dll
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.pdb
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
+C:\Work_dvz\C_sharp\Seminar2\Tasks\Task11\obj\Debug\net6.0\ref\Task11.dll
